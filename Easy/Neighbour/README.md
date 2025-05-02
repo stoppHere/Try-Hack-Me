@@ -14,3 +14,20 @@
 <p>And here's where we get leaked information!, you'll found it when you do the same as i do</p>
 <p>So just type the input to login page</p>
 <img src="Images/Screenshot5.png" width=600>
+<p>Yup!, We finally enter the Cloud</p>
+<H2>## IDOR Vulnerabilities</H2>
+<p>And here's where the IDOR is exist</p>
+<p>If you see the parameter "user" in the search bar, you notice that our username "guest" is exist</p>
+<p>That mean the username are visible in the search bar</p>
+<img src="Images/Screenshot8.png" width=600>
+<p>Let's try change the parameter</p>
+<img src="Images/Screenshot6.png" width=600>
+<p>Now you see that the parameter are easily changed even without password ( Hope there's no website that have issues like this )</p>
+<H2>## CAPTURE THE FLAG</H2>
+<p>Change the parameter to your neighbour usernames ( Not your real neighbour ._.)</p>
+<p>The clue is inside the view-page source that we have found before.</p>
+<img src="Images/Screenshot7.png" width=600>
+<p>You got it?, Cool!</p>
+<p>Even though this is WAY too easy, but atleast it can get yourself a knowledge or new insight about IDOR ( If you are really new in this field )</p>
+
+<H3>SO That's for Neighbour writeup, Thank you for visiting:D </H3>
