@@ -1,5 +1,5 @@
 <H1><a href="https://tryhackme.com/room/neighbour">NEIGHBOUR</a></H1>
-<img src="Images/tryhackme_writeup.png" alt="Writeup" width="600">
+<img src="Images/Screenshot 2025-05-02 212913.png" alt="Writeup" width="600">
 
 
 <H3>TryHackMe-Neighbour room was a Challenge that more focused on "IDOR"/Insecure direct object references problem.</H3>
