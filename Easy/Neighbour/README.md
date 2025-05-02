@@ -1,5 +1,6 @@
 <H1><a href="https://tryhackme.com/room/neighbour">NEIGHBOUR</a></H1>
-![](./Images/Screenshot 2025-05-02 212913.png)
+<img src="Images/tryhackme_writeup.png" alt="Writeup" width="600">
+
 
 <H3>TryHackMe-Neighbour room was a Challenge that more focused on "IDOR"/Insecure direct object references problem.</H3>
 <p>Hello Hacker!, even though there might be no one will see this writeup, because the challenges is WAY to easy.. ( Yea, it only cost 5 min ._. )</p>
