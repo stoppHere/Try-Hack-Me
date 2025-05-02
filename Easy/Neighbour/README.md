@@ -9,3 +9,8 @@
 <img src="Images/Screenshot2.png" width=600>
 <p>After you input the target IP Machine to your virtual machine browser/Attackbox Browser. You will found Login page</p>
 <img src="Images/Screenshot3.png" width=600>
+<p>Here's the easiest part, just type the Ctrl + U, it will led you to view-source page</p>
+<img src="Images/Screenshot4.png" width=600>
+<p>And here's where we get leaked information!, you'll found it when you do the same as i do</p>
+<p>So just type the input to login page</p>
+<img src="Images/Screenshot5.png" width=600>
